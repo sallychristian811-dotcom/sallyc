@@ -1,0 +1,6 @@
+{
+  "name": "ZARA Singapore",
+  "description": "An elegant, interactive, high-fashion editorial digital store catalog for ZARA Singapore, featuring the Summer Collection, Architectural Forms, and New Arrivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
